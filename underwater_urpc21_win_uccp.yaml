@@ -1,0 +1,8 @@
+path: "C:/Users/Ka wing Ho/Desktop/人工智能/URPC2021"
+train: images/train_uccp
+val: images/val_uccp
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish
